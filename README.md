@@ -374,12 +374,13 @@ ALLOWED_HOSTS = ['*']  # Hoặc domain cụ thể
 
 ---
 
-## 👤 Author
-
-Phúc Huy - Grocery Management API
-
+## 👨‍💻 Author  
+**Tran Ngoc Phuc Huy**  
+📧 Email: [phuchuy242@gmail.com](mailto:phuchuy242@gmail.com)  
+📞 Phone: +84 796 791 500  
+🎓 Duy Tan University – Software Engineering (CMU Program)  
+💼 GitHub: [github.com/phuchuy242](https://github.com/phuchuy242)
 ---
-
 ## 📄 License
 
 MIT License - Tự do sử dụng và chỉnh sửa
